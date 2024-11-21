@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on security projects or coding discussions
 - 📫 How to reach me: nicovaltieri@gmail.com
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: follow the white rabbit ૮꒰˶• ༝ •˶꒱ა 
+- ⚡ follow the white rabbit ૮꒰˶• ༝ •˶꒱ა 
 
 <!---
 nicovaltieri/nicovaltieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
